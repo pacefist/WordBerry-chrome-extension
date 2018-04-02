@@ -12,3 +12,5 @@ In this file I gonna show features, and bugs what need to be fix
 
 - [ ] add play, pause btn for speech module
 - [ ] add setting to speech module
+- [ ] auto update chrome extension
+- [ ] fix tooltip width size
